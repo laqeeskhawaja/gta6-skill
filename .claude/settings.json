@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "gta6-skill": {
+      "source": {
+        "source": "github",
+        "repo": "neubauerwilli/gta6-skill"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "gta6-skill@gta6-skill": true
+  }
+}
